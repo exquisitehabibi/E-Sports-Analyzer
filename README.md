@@ -73,8 +73,11 @@ This will start the frontend server and open the application in your default web
 - The backend will handle the submission and store the data in the MongoDB database.
 - The frontend will display the data and analytics based on the entered match statistics.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - Thanks to the developers of React.js, Node.js, Express.js, and MongoDB for providing the tools that made this project possible.
+
+## Authors
+
+Arun Thakur  
+@exquisitehabibi
