@@ -74,6 +74,14 @@ This will start the frontend server and open the application in your default web
 - The frontend will display the data and analytics based on the entered match statistics.
 
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/9df5c0b8-e71a-4fe4-aed5-051a648f6686)
+![image](https://github.com/user-attachments/assets/ef60bb27-c454-4052-abbd-1c67eabe560a)
+
+
+
+
+
 ## Acknowledgements
 - Thanks to the developers of React.js, Node.js, Express.js, and MongoDB for providing the tools that made this project possible.
 
